@@ -254,9 +254,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.73208939"
-     inkscape:cx="-59.379021"
-     inkscape:cy="519.82393"
+     inkscape:zoom="0.75069211"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -280,7 +280,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2560,7 +2560,7 @@
              y="34.16898"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller"
-           id="flowPara4748-0">Travel time and Δv are averaged over 10 sample years in 23 year intervals. Plock has a range of values because of it's eccentric orbit. Travel times are only rough estimates. Due to the great distances invloved, a minor difference in phase angle can have a large effect. Values calculated by Rosco P. Coltrane using TriggerAu's Transfer Window Planner Mod.</flowPara><flowPara
+           id="flowPara4748-0">Travel time and Δv are averaged over 10 sample years in 23 year intervals. Plock has a range of values because of its elliptical orbit. Travel times are only rough estimates. Due to the great distances involved, a minor difference in phase angle can have a large effect. Values calculated by Rosco P. Coltrane using TriggerAu's Transfer Window Planner Mod.</flowPara><flowPara
            id="flowPara8871"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller" /><flowPara
            id="flowPara8873"
