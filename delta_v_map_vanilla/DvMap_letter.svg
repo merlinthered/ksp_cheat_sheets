@@ -16,8 +16,8 @@
    width="215.89999mm"
    height="279.39999mm"
    viewBox="0 0 765 990"
-   sodipodi:docname="KSP_dVMap_printFriendly_letter.svg"
-   inkscape:export-filename="E:\Bilder\Kerbal Space Program\KSP_dVMap_printFriendly_letter.png"
+   sodipodi:docname="DvMap_letter.svg"
+   inkscape:export-filename="./DvMap_letter.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -501,8 +501,8 @@
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
      inkscape:zoom="0.79797982"
-     inkscape:cx="192.91283"
-     inkscape:cy="499.68326"
+     inkscape:cx="382.49999"
+     inkscape:cy="494.99999"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -513,15 +513,6 @@
      inkscape:snap-smooth-nodes="false"
      inkscape:document-units="mm"
      inkscape:object-paths="false" />
-  <image
-     sodipodi:absref="E:\Bilder\Kerbal Space Program\KSP_dV_Map.png"
-     xlink:href="KSP_dV_Map.png"
-     width="721.62848"
-     height="838.26825"
-     preserveAspectRatio="none"
-     id="image4144"
-     x="-727.44299"
-     y="-15.841251" />
   <g
      id="g4233"
      transform="translate(-404.55293,-37.117338)">

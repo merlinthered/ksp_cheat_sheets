@@ -16,8 +16,8 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="KSP_dVMap_printFriendly_OP1_A4.svg"
-   inkscape:export-filename="E:\Bilder\Kerbal Space Program\ksp_cheat_sheets\KSP_dVMap_printFriendly_OP1_A4.png"
+   sodipodi:docname="DvMap_OP_1_A4.svg"
+   inkscape:export-filename="./DvMap_OP_1_A4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -613,7 +613,7 @@
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
      inkscape:zoom="0.60809067"
-     inkscape:cx="478.89511"
+     inkscape:cx="99.839796"
      inkscape:cy="476.16171"
      inkscape:window-x="-8"
      inkscape:window-y="-8"

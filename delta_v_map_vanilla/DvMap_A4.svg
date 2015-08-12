@@ -16,8 +16,8 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="KSP_dVMap_printFriendly_A4.svg"
-   inkscape:export-filename="E:\Bilder\Kerbal Space Program\KSP_dVMap_printFriendly_A4.png"
+   sodipodi:docname="DvMap_A4.svg"
+   inkscape:export-filename="./DvMap_A4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -501,8 +501,8 @@
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
      inkscape:zoom="0.75069214"
-     inkscape:cx="195.46403"
-     inkscape:cy="519.92784"
+     inkscape:cx="75.000501"
+     inkscape:cy="525.4282"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -733,15 +733,6 @@
      id="path4979"
      d="m 368.97738,851.77682 10.6299,0 -5.315,10.62992 z"
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <image
-     sodipodi:absref="E:\Bilder\Kerbal Space Program\KSP_dV_Map.png"
-     xlink:href="KSP_dV_Map.png"
-     width="721.62848"
-     height="838.26825"
-     preserveAspectRatio="none"
-     id="image4144"
-     x="-782.59735"
-     y="39.449886" />
   <g
      id="g4233"
      transform="translate(-404.55293,25.244867)">
