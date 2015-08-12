@@ -6,6 +6,8 @@ The Delta-v maps are based on work by WAC and Kowgan on the [Kerbal Space Progra
 
 The font used is called Aller and can be downloaded on [FontSquirrel](http://www.fontsquirrel.com/fonts/aller).
 
+The documents are [Inkscape](http://inkscape.org) SVG files. Some of the features of Inkscape SVGs might not be available to your browser or vector graphics editor. Notably this seems to be justified flow text boxes, which will not be visible if you open the files in your browser to look at them. If you want to contribute to this project, you should install the Aller font and Inkscape. Both are free.
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### You are free to:
