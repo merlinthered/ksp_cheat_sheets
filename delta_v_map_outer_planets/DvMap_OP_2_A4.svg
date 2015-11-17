@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="DvMap_OP_2_A4_beta.svg"
+   sodipodi:docname="DvMap_OP_2_A4_2.3.1.svg"
    inkscape:export-filename="./DvMap_OP_2_A4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -254,11 +254,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="167.38071"
-     inkscape:cy="366.37805"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="26.458564"
+     inkscape:cy="548.70455"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8907"
      showgrid="false"
      showguides="true"
      inkscape:object-nodes="true"
@@ -280,7 +280,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2273,7 +2273,7 @@
            y="483.17661"
            x="33.358467"
            id="tspan4790-7-5"
-           sodipodi:role="line">1.7.5</tspan></text>
+           sodipodi:role="line">1.8.1</tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4865-7"
