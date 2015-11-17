@@ -16,8 +16,8 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="DvMap_A4.svg"
-   inkscape:export-filename="./DvMap_A4.png"
+   sodipodi:docname="DvMap_A4_2.3.1.svg"
+   inkscape:export-filename="./DvMap_A4_2.3.1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -500,13 +500,13 @@
      inkscape:snap-center="true"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="1.061639"
-     inkscape:cx="172.21955"
-     inkscape:cy="659.89635"
+     inkscape:zoom="4.246556"
+     inkscape:cx="45.549753"
+     inkscape:cy="909.21236"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4136"
+     inkscape:current-layer="g5703"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:snap-text-baseline="true"
@@ -3724,7 +3724,7 @@
            style="-inkscape-font-specification:Aller;font-family:Aller;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">reddit.com/r/kerbalspaceprogram</flowPara></flowRoot>    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="32.736557"
        y="64.679184"
        id="text4788"
@@ -3732,7 +3732,7 @@
          sodipodi:role="line"
          id="tspan4790"
          x="32.736557"
-         y="64.679184">1.0.4</tspan></text>
+         y="64.679184">1.0.5</tspan></text>
   </g>
   <g
      id="g4600"
