@@ -16,8 +16,8 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="DvMap_OP_1_A4.svg"
-   inkscape:export-filename="./DvMap_OP_1_A4.png"
+   sodipodi:docname="DvMap_OP_1_A4_2.3.1.svg"
+   inkscape:export-filename="./DvMap_OP_1_A4_2.3.1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -612,13 +612,13 @@
      inkscape:snap-center="true"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="0.85997007"
-     inkscape:cx="-41.82578"
-     inkscape:cy="451.42806"
+     inkscape:zoom="4.8647253"
+     inkscape:cx="-47.278277"
+     inkscape:cy="958.25504"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5615"
+     inkscape:current-layer="g5703-0"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:snap-text-baseline="true"
@@ -3696,7 +3696,7 @@
            y="64.679184"
            x="32.736557"
            id="tspan4790-7"
-           sodipodi:role="line">1.0.4</tspan></text>
+           sodipodi:role="line">1.0.5</tspan></text>
     </g>
     <g
        style="fill:#000000;enable-background:new"
