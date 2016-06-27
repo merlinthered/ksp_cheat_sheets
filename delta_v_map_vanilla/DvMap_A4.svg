@@ -16,8 +16,8 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="mapmap.svg"
-   inkscape:export-filename="./DvMap_A4.png"
+   sodipodi:docname="DvMap_A4_2.3.2.svg"
+   inkscape:export-filename="./DvMap_A4_2.3.2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -500,13 +500,13 @@
      inkscape:snap-center="true"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="1.061639"
-     inkscape:cx="346.00744"
-     inkscape:cy="622.21876"
+     inkscape:zoom="1.5013843"
+     inkscape:cx="346.41677"
+     inkscape:cy="251.82039"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4136"
+     inkscape:current-layer="g5963"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:snap-text-baseline="true"
@@ -783,7 +783,7 @@
        x="76.298401"
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Aller;-inkscape-font-specification:Aller;fill:#808080"
-       id="tspan4721">15850</tspan><tspan
+       id="tspan4721">13850</tspan><tspan
        y="545.75427"
        x="76.298401"
        sodipodi:role="line"
@@ -1508,7 +1508,7 @@
        sodipodi:role="line"
        x="-313.73862"
        y="552.99597"
-       id="tspan9137">50 km</tspan></text>
+       id="tspan9137">20 km</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0629921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1752,7 +1752,7 @@
        y="512.66394"
        x="134.66554"
        id="tspan4705-3"
-       sodipodi:role="line">9k</tspan></text>
+       sodipodi:role="line">8k</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Aller;-inkscape-font-specification:Aller;text-align:justify;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2760,7 +2760,7 @@
          sodipodi:role="line"
          id="tspan5629"
          x="-248.79179"
-         y="503.03958">220</tspan></text>
+         y="503.03958">230</tspan></text>
     <text
        transform="matrix(0,-1,1,0,0,0)"
        sodipodi:linespacing="125%"
@@ -2795,7 +2795,7 @@
          y="-154.25638"
          x="593.03015"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">10 km</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">30 km</tspan></text>
   </g>
   <g
      id="g5977"
@@ -3724,7 +3724,7 @@
            style="-inkscape-font-specification:Aller;font-family:Aller;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">reddit.com/r/kerbalspaceprogram</flowPara></flowRoot>    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="32.736557"
        y="64.679184"
        id="text4788"
@@ -3732,7 +3732,7 @@
          sodipodi:role="line"
          id="tspan4790"
          x="32.736557"
-         y="64.679184">1.0.4</tspan></text>
+         y="64.679184">1.1.3</tspan></text>
   </g>
   <g
      id="g4600"
